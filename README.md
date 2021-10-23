@@ -16,7 +16,7 @@ This app demonstrates wallet features which contains examples of:
   ## Getting Started 
   
   ### 1. Way to build this app 
-  - Git clone https://github.com/centerprime/BinanceSmartChain-iOS-Wallet-Sample.git
+  - Git clone https://github.com/harpcoin/HARP-iOS-Wallet.git
   - Open BinanceSmartChainIosSample.xcworkspace
   - Build and Run this application in Xcode 
 
